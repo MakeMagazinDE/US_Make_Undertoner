@@ -1,0 +1,7 @@
+1
+9
+.tran 10u 50m{return}{return}
+1
+1
+Net-(R1-Pad2)
+V
